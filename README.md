@@ -24,11 +24,10 @@ My work focuses on implementing and benchmarking next-generation waveform candid
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [SAE-CNN Indoor Positioning](https://github.com/janinduhm/SAE-CNN-Indoor-Positioning) | Deep learning-based WiFi indoor positioning using stacked autoencoders and 1D-CNN | MATLAB, Deep Learning Toolbox |
-| [Versatile Indoor Positioning System](https://github.com/janinduhm/-Versatile-Indoor-Positioning-System) | WiFi RSSI + accelerometer-based indoor localization using neural networks (B.Sc. thesis) | Python, TensorFlow, Android Studio |
-| [IoT Visualization Interface](https://github.com/janinduhm/IoT-Visualization-Interface) | Real-time IoT sensor data visualization on Google Maps via MQTT and Node-RED | Node-RED, JavaScript, Google Maps API, Docker |
-| [Robot Coordination System](https://github.com/janinduhm/Robot-Coordination-System) | Autonomous mobile robot and 3-DoF manipulator coordination for object transfer | Webots, MATLAB |
-| [Root-Finding IC Design](https://github.com/janinduhm/Root-Finding-IC-Design) | Digital IC for root-finding using IEEE-754 16-bit floating-point with FPU and Taylor series | Verilog HDL |
-| [Smart Room Kit](https://github.com/janinduhm/Smart-Room-Kit) | Gesture-controlled smart home system converting conventional appliances to WiFi-enabled devices | ESP8266, Android Studio |
+| [Versatile Indoor Positioning System](https://github.com/janinduhm/Versatile-Indoor-Positioning-System) | WiFi RSSI + accelerometer-based indoor localization using neural networks (B.Sc. thesis) | Python, TensorFlow, Android Studio |
+| [Autonomous Search Rescue System](https://github.com/janinduhm/Autonomous-Search-Rescue-System) | Fully autonomous marine rescue platform using UAV and ASV coordination with deep learning-based victim detection | Pixhawk, Jetson Nano, Raspberry Pi, XBee |
+| [Root-Finding IC](https://github.com/janinduhm/Root-Finding-IC) | Digital IC for root-finding using IEEE-754 16-bit floating-point with FPU and Taylor series | Verilog HDL |
+| [Gesture Control Smart Room Kit](https://github.com/janinduhm/Gesture-Control-Smart-Room-Kit) | Gesture-controlled smart home system converting conventional appliances to WiFi-enabled devices | ESP8266, Android Studio |
 
 ## Education
 
