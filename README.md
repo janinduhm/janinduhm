@@ -37,6 +37,10 @@ My work focuses on implementing and benchmarking next-generation waveform candid
 
 **B.Sc. Electrical and Electronics Engineering** | University of Sri Jayewardenepura, Sri Lanka (2016 - 2021)
 
+## Portfolio
+
+[janinduhm.github.io](https://janinduhm.github.io)
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janindu-bandara-3b2345198/)
