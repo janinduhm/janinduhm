@@ -23,6 +23,7 @@ My work focuses on implementing and benchmarking next-generation waveform candid
 
 | Project | Description | Tools |
 |---------|-------------|-------|
+| [Pulse Design for Pre-6G Mobile Radio Systems](https://github.com/janinduhm/Pulse-Design-for-Pre-6G-Mobile-Radio-Systems) | Constrained optimization of FDSS pulse parameters for pre-6G uplink, benchmarking FDSS with spectral extension and OTFS against the 5G NR baseline (M.Sc. thesis) | MATLAB, LaTeX |
 | [SAE-CNN Indoor Positioning](https://github.com/janinduhm/SAE-CNN-Indoor-Positioning) | Deep learning-based WiFi indoor positioning using stacked autoencoders and 1D-CNN | MATLAB, Deep Learning Toolbox |
 | [Versatile Indoor Positioning System](https://github.com/janinduhm/Versatile-Indoor-Positioning-System) | WiFi RSSI + accelerometer-based indoor localization using neural networks (B.Sc. thesis) | Python, TensorFlow, Android Studio |
 | [Autonomous Search Rescue System](https://github.com/janinduhm/Autonomous-Search-Rescue-System) | Fully autonomous marine rescue platform using UAV and ASV coordination with deep learning-based victim detection | Pixhawk, Jetson Nano, Raspberry Pi, XBee |
