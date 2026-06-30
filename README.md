@@ -28,6 +28,7 @@ My work focuses on implementing and benchmarking next-generation waveform candid
 | [Autonomous Search Rescue System](https://github.com/janinduhm/Autonomous-Search-Rescue-System) | Fully autonomous marine rescue platform using UAV and ASV coordination with deep learning-based victim detection | Pixhawk, Jetson Nano, Raspberry Pi, XBee |
 | [Root-Finding IC](https://github.com/janinduhm/Root-Finding-IC) | Digital IC for root-finding using IEEE-754 16-bit floating-point with FPU and Taylor series | Verilog HDL |
 | [Gesture Control Smart Room Kit](https://github.com/janinduhm/Gesture-Control-Smart-Room-Kit) | Gesture-controlled smart home system converting conventional appliances to WiFi-enabled devices | ESP8266, Android Studio |
+| [My-Note](https://github.com/janinduhm/My-Note) | Lightweight Android note-taking app with full CRUD functionality and local SQLite storage | Java, SQLite, Android Studio |
 
 ## Education
 
