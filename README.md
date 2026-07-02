@@ -62,7 +62,7 @@ Constrained optimization of FDSS pulse parameters, benchmarking FDSS with spectr
 | [SAE-CNN Indoor Positioning](https://github.com/janinduhm/SAE-CNN-Indoor-Positioning) | Deep learning-based WiFi indoor positioning using stacked autoencoders and 1D-CNN | MATLAB, Deep Learning Toolbox |
 | [Versatile Indoor Positioning System](https://github.com/janinduhm/Versatile-Indoor-Positioning-System) | WiFi RSSI + accelerometer-based indoor localization using neural networks (B.Sc. thesis) | Python, TensorFlow, Android Studio |
 | [Autonomous Search Rescue System](https://github.com/janinduhm/Autonomous-Search-Rescue-System) | Systems design study for a fully autonomous marine rescue platform using UAV and ASV coordination with deep learning-based victim detection | — |
-| [Root-Finding IC](https://github.com/janinduhm/Root-Finding-IC) | Digital IC for root-finding using IEEE-754 16-bit floating-point with FPU and Taylor series | Verilog HDL |
+| [Root-Finding IC](https://github.com/janinduhm/Root-Finding-IC) | Digital IC for root-finding using IEEE-754 16-bit floating-point with FPU and Chebyshev polynomial (Horner method) | Verilog HDL |
 | [Gesture Control Smart Room Kit](https://github.com/janinduhm/Gesture-Control-Smart-Room-Kit) | Gesture-controlled smart home system converting conventional appliances to WiFi-enabled devices | ESP8266, Android Studio |
 | [My-Note](https://github.com/janinduhm/My-Note) | Lightweight Android note-taking app with full CRUD functionality and local SQLite storage | Java, SQLite, Android Studio |
 
