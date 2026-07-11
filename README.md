@@ -1,10 +1,18 @@
-# Hi, I'm Janindu Bandara
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0076a8&height=180&section=header&text=Hi%2C%20I%27m%20Janindu%20Bandara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=M.Sc.%20Electrical%20Communication%20Engineering&descAlignY=65&descSize=18&descColor=d0e8ff" />
+</p>
 
-**M.Sc. Electrical Communication Engineering** — University of Kassel × Rohde & Schwarz Munich
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Pre-6G+Waveform+%26+Signal+Processing;FDSS+%7C+DFT-s-OFDM+%7C+OTFS+Modulation;M.Sc.+ECE+%40+Uni+Kassel+%C3%97+Rohde+%26+Schwarz;Targeting+Munich+Wireless+Industry" alt="Typing SVG" />
+</p>
 
-Specializing in pre-6G waveform design and signal processing. Targeting wireless communications and signal processing roles in Germany upon graduation.
+<p align="center">
+  Specializing in pre-6G waveform design and signal processing. Targeting wireless communications and signal processing roles in Germany upon graduation.
+</p>
 
-🌐 **Portfolio:** [janinduhm.github.io](https://janinduhm.github.io)
+<p align="center">
+  🌐 <strong>Portfolio:</strong> <a href="https://janinduhm.github.io">janinduhm.github.io</a>
+</p>
 
 ---
 
@@ -81,3 +89,7 @@ Constrained optimization of FDSS pulse parameters, benchmarking FDSS with spectr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janindu-bandara-3b2345198/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:janinduhm@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://janinduhm.github.io)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0076a8,100:1e3a5f&height=100&section=footer" />
+</p>
