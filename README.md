@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Pre-6G+Waveform+%26+Signal+Processing;FDSS+%7C+DFT-s-OFDM+%7C+OTFS+Modulation;M.Sc.+ECE+%40+Uni+Kassel+%C3%97+Rohde+%26+Schwarz;Targeting+Munich+Wireless+Industry" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Pre-6G+Waveform+%26+Signal+Processing;FDSS+%7C+DFT-s-OFDM+%7C+OTFS+Modulation;M.Sc.+ECE+%40+Uni+Kassel+%C3%97+Rohde+%26+Schwarz;Targeting+Wireless+Industry+in+Germany" alt="Typing SVG" />
 </p>
 
 <p align="center">
