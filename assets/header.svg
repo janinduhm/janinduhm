@@ -1,0 +1,78 @@
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#0e4a6e"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect width="900" height="200"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bgGrad)"/>
+
+  <!-- Text -->
+  <text x="450" y="78"
+        text-anchor="middle"
+        font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="36" font-weight="700" fill="#ffffff">
+    Hi, I'm Janindu Bandara
+  </text>
+  <text x="450" y="108"
+        text-anchor="middle"
+        font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="15" fill="#c0dff5" letter-spacing="0.5">
+    M.Sc. Electrical Communication Engineering
+  </text>
+
+  <!-- Animated waves -->
+  <g clip-path="url(#clip)">
+
+    <!-- Wave 3 — back, slowest, most transparent -->
+    <g opacity="0.20">
+      <animateTransform attributeName="transform" type="translate"
+                        from="0,0" to="-450,0"
+                        dur="10s" repeatCount="indefinite"/>
+      <path fill="#2a8fba"
+            d="M0,138 C75,118 150,158 225,138
+               C300,118 375,158 450,138
+               C525,118 600,158 675,138
+               C750,118 825,158 900,138
+               C975,118 1050,158 1125,138
+               C1200,118 1275,158 1350,138
+               L1350,200 L0,200 Z"/>
+    </g>
+
+    <!-- Wave 2 — mid speed -->
+    <g opacity="0.32">
+      <animateTransform attributeName="transform" type="translate"
+                        from="-225,0" to="-675,0"
+                        dur="7s" repeatCount="indefinite"/>
+      <path fill="#1a7aad"
+            d="M0,150 C75,133 150,167 225,150
+               C300,133 375,167 450,150
+               C525,133 600,167 675,150
+               C750,133 825,167 900,150
+               C975,133 1050,167 1125,150
+               C1200,133 1275,167 1350,150
+               L1350,200 L0,200 Z"/>
+    </g>
+
+    <!-- Wave 1 — front, fastest, most opaque -->
+    <g opacity="0.48">
+      <animateTransform attributeName="transform" type="translate"
+                        from="-112,0" to="-562,0"
+                        dur="5s" repeatCount="indefinite"/>
+      <path fill="#0f6899"
+            d="M0,161 C75,146 150,176 225,161
+               C300,146 375,176 450,161
+               C525,146 600,176 675,161
+               C750,146 825,176 900,161
+               C975,146 1050,176 1125,161
+               C1200,146 1275,176 1350,161
+               L1350,200 L0,200 Z"/>
+    </g>
+
+  </g>
+</svg>

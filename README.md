@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0076a8&height=180&section=header&text=Hi%2C%20I%27m%20Janindu%20Bandara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=M.Sc.%20Electrical%20Communication%20Engineering&descAlignY=65&descSize=18&descColor=d0e8ff" />
+  <img src="assets/header.svg" width="100%" alt="Header" />
 </p>
 
 <p align="center">
